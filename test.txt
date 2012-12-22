@@ -1,7 +1,5 @@
 add branch1
 branch1
-=======
-
 add master1
 dstes
 :test commit
